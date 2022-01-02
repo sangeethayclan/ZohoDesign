@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    #Plots {
+    margin: 9px 0;
+    font-family: OpenSans;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: black;
+  }
+  .Add-Lead {
+    font-family: OpenSans;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+  }
+  .Add-Lead-border {
+    width: 91px;
+    height: 32px;
+    padding: 5px 9px;
+    border-radius: 5px;
+    background-color: 
+    #1683ed;
+  }
+  .Richard {
+    font-family: OpenSans;
+    font-size: 15px;
+    margin: 0;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: black;
+}
+.Lead-Creator {
+    font-family: OpenSans;
+    margin: 3px 0px 0px;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #838383;
+  }
+  img.profile_icon {
+    width: 40px;
+    height: 40px;
+    margin: 0 10px 0 22px;
+    object-fit: contain;
+  }
+  #pro{
+      display: flex;
+      flex-direction: row;
+  }
+  .dashboardimg {
+    width: 16px;
+    height: 16px;
+    margin: 3px 15px 3px 0;
+    object-fit: contain;
+  }
+  img.insight {
+    width: 16px;
+    height: 16px;
+    margin: 3px 15px 3px 0;
+    object-fit: contain;
+  }
+  .dashboardbg {
+    box-shadow: 0 2px 9px 1px rgba(0, 0, 0, 0.08);
+    border: solid 1px #e8e8e8;
+    background-color: #f9f9f9;
+  }
+  .dash1{
+        width: 400px;
+        height: 325px;
+        border-radius: 5px;
+        border: solid 1px #e3e3e3;
+        background-color: white;
+  }
+  .dash2 {
+    width: 500px;
+    height: 325px;
+    border-radius: 5px;
+    border: solid 1px #e3e3e3;
+    background-color: white;
+  }

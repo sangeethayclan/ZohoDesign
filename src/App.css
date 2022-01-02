@@ -1,0 +1,401 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: HelveticaNeue;
+  }
+  @font-face {
+    font-family: HelveticaNeue;
+    src: url(./helvetica/Helvetica\ Neue\ LT\ 45\ Light.ttf);
+}
+  a {
+  text-decoration: none;
+  }
+  li {
+  list-style-type: none;
+  }
+  .fleft{
+    float: left;
+  }
+  .Bitmap-Copy {
+    width: 26px;
+    height: 26px;
+    margin: 0 0 0 11px;
+    object-fit: contain;
+    vertical-align: sub;
+  }
+  #abc{
+    color: #3e7bf1;
+    border-bottom: 2px solid #3e7bf1;
+  }
+#pricing{
+    color: #383737;
+}
+.Bitmap {
+  width: 105.6px;
+  height: 39px;
+}
+#Pricing{
+  height: 18px;
+  margin: 48.5px 10px 99.5px 20px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #383737;
+}
+
+.zohocontent{
+  width: 100%;
+  padding: 0 0 218px;
+  background-image: linear-gradient(to bottom, #ffcaac, #fff);
+}
+
+.Streamline-your-team {
+  width: 835px;
+  display: block;
+  padding: 90px 0px 45px 0px;
+  margin: 0 auto;
+  font-family: HelveticaNeue;
+  font-size: 46px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+.Zoho-Cliq-simplifies {
+  width: 919px;
+  height: 93px;
+  display: block;
+  margin: auto;
+  padding: 45px 0px 100px 0px;
+  font-family: HelveticaNeue;
+  font-size: 25px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+.center{
+  display: block;
+  margin: 0 auto;
+}
+.Access-cliq {
+  height: 29px;
+  font-family: HelveticaNeue;
+  font-size: 25px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+.accessborder {
+  width: 319px;
+  height: 86px;
+  margin: 50px auto 100px ;
+  padding: 29px 9px 28px 10px;
+  background-color: #f55;
+}
+.ladypic{
+    width: 992px;
+    height: 605px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 78.4px;
+}
+.Group-collaboration {
+  height: 56px;
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #313131;
+}
+.Transform-ideas-into {
+  height: 161px;
+  margin: 17px 0 0;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: #313131;
+}
+.threedot {
+  width: 62px;
+  height: 57px;
+  margin: 0 0px 27px 0;
+}
+.sixg{
+  display: block;
+  margin: 0 auto;
+}
+.bc{
+  color: #54abfa;
+}
+.Stay-better-connecte {
+  width: 838px;
+  margin: 0 auto;
+  padding: 136px 0px 45.5px;
+  font-family: HelveticaNeue;
+  font-size: 46px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+.Every-business-is-un {
+  width: 919px;
+  height: 93px;
+  display: block;
+  margin: 0 auto;
+  font-family: HelveticaNeue;
+  font-size: 25px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+.msg img {
+  height: 487px;
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+}
+.last{
+  margin: 136px 0 0 1.5px;
+  padding: 110px 0px 78.7px 0px;
+  background-color: #f5f5f5;
+}
+.inputsearches{
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+}
+.cent{
+  margin: 90px 0px 77.3px 0px;
+}
+.Home-Contact-Securit {
+width: 751px;
+font-family: HelveticaNeue;
+font-size: 16px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 2.88;
+letter-spacing: normal;
+text-align: center;
+color: #1a1919;
+display: block;
+margin: 0 auto;
+}
+.All-Rights-R {
+text-align: center;
+font-family: HelveticaNeue;
+font-size: 16px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 2.88;
+letter-spacing: normal;
+color: #1a1919;
+}
+.Home-Contact-Securit a {
+border-right: 1px solid #979797;
+padding: 0px 15px;
+text-decoration: none;
+color: #1a1919;
+}
+.searchinput {
+width: 913px;
+height: 70px;
+margin: 0 0 90px;
+padding: 0 0 0 20px;
+border: solid 1px #c9c9c9;
+background-color: #fff;
+}
+@media only screen and (max-width: 1100px) {
+  .ladypic{
+    width: 700px;
+    height: 500px;
+  }
+  .msg img {
+    width: 700px;
+    height: 480px;
+  }
+}
+@media only screen and (max-width: 1000px) {
+.Streamline-your-team {
+  width: 735px;
+  font-size: 44px;
+}
+.Zoho-Cliq-simplifies {
+  width: 750px;
+  font-size: 23px;
+}
+.Stay-better-connecte {
+  width: 735px;
+  font-size: 44px;
+}
+.Every-business-is-un {
+  width: 750px;
+  font-size: 23px;
+}
+}
+@media only screen and (max-width: 800px) {
+  .ladypic{
+    width: 450px;
+    height: 300px;
+  }
+  .Streamline-your-team {
+    width: 505px;
+    font-size: 40px;
+  }
+  .Zoho-Cliq-simplifies {
+    width: 500px;
+    font-size: 20px;
+  }
+  .Stay-better-connecte {
+    width: 505px;
+    font-size: 40px;
+  }
+  .Every-business-is-un {
+    width: 500px;
+    font-size: 20px;
+  }
+  .msg img {
+    width: 450px;
+    height: 300px;
+  }
+  .Home-Contact-Securit {
+  width: 501px;
+  font-size: 15px;
+  }
+  .cola{
+    display: block;
+    margin: 0 auto;
+    padding: 0px 50px;
+  }
+  .Transform-ideas-into {
+    min-height: 200px;
+  }
+  .Group-collaboration {
+    height: 75px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .ladypic{
+    width: 250px;
+    height: 150px;
+  }
+  .Streamline-your-team {
+    width: 300px;
+    font-size: 36px;
+  }
+  .Zoho-Cliq-simplifies {
+    width: 310px;
+    font-size: 18px;
+  }
+  .Stay-better-connecte {
+    width: 300px;
+    font-size: 36px;
+  }
+  .Every-business-is-un {
+  width: 310px;
+  font-size: 18px;
+}
+.msg img {
+  width: 300px;
+  height: 250px;
+}
+.Home-Contact-Securit {
+width: 301px;
+font-size: 14px;
+}
+.accessborder {
+  width: 200px;
+  height: 45px;
+  padding: 10px 20px;
+}
+.last{
+  margin: 0;
+  padding: 25px 0px;
+}
+.cent{
+  margin: 50px 0px;
+}
+}
+@media only screen and (max-width: 440px) {
+  #pricing{
+    display: none;
+  }
+  .Stay-better-connecte {
+    padding: 86px 0px 45.5px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .ladypic{
+    width: 250px;
+    height: 150px;
+  }
+  .Streamline-your-team {
+    width: 280px;
+    font-size: 34px;
+  }
+  .Zoho-Cliq-simplifies {
+    width: 290px;
+    font-size: 18px;
+  }
+  .Stay-better-connecte {
+    width: 280px;
+    font-size: 34px;
+  }
+  .Every-business-is-un {
+  width: 290px;
+  font-size: 16px;
+}
+.msg img {
+  width: 250px;
+  height: 210px;
+}
+.Home-Contact-Securit {
+width: 271px;
+font-size: 12px;
+}
+.accessborder {
+  width: 200px;
+  height: 45px;
+  padding: 10px 20px;
+}
+.Transform-ideas-into {
+  height: 161px;
+}
+.Group-collaboration {
+  height: 56px;
+}
+}

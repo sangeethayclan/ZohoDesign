@@ -1,0 +1,284 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Opensans;
+    }
+    @font-face {
+      font-family: Opensans;
+      src: url(./Opensans/OpenSans-Regular.ttf);
+  }
+  .signincontainer {
+    width: 100%;
+    background-color: #1683ed;
+  }
+  .navsigncon{
+    box-shadow: 0 1px 9px 1px rgba(0, 0, 0, 0.07);
+    background-color: white;
+  }
+  .crmlogo{
+      width: 98px;
+      height: 33px;
+      object-fit: contain;
+  }
+  #signincolor{
+    color:#161616;
+      font-family: OpenSans;
+      font-size: 16px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+  }
+  .signborder {
+    padding: 5px 11px;
+    border-radius: 5px;
+    color: white;
+    border: solid 1px #1683ed;
+    background-color: #1683ed;
+  }
+  .aic{
+    align-items: center;
+  }
+  .Group-3 {
+    width: 726px;
+    height: 400px;
+    object-fit: contain;
+  }
+  .labeltext{
+      font-family: OpenSans;
+      font-size: 15px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: 0.01px;
+      color:black;
+  }
+  .asdf{
+    
+    top: 50%;
+    left: 50%;
+    transform: translate(0px,0px);
+  }
+  .bgimage{
+    background-image: url(./CrmImages/group-3.png);
+    width: 626px;
+    margin: 0px auto;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 100px 150px;
+  }
+  .checkbutton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0px;
+  }
+  .copy-10{
+    font-size: 12px;
+    color: #161616;
+  }
+  #-copy-10 {
+    width: 86px;
+    height: 23px;
+    font-family: OpenSans;
+    font-size: 12px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.01px;
+    color: #1683ed;
+  }
+  .-copy-7 {
+    width: 115px;
+    height: 23px;
+    font-family: OpenSans;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.01px;
+    text-align: right;
+    color: black;
+  }
+  .-copy-8 {
+    width: 47px;
+    height: 23px;
+    font-family: OpenSans;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.01px;
+    color: white;
+  }
+  .secbutton{
+      width: 102px;
+      height: 35px;
+      padding: 6px 27px 6px 28px;
+      border-radius: 5px;
+      border: solid 1px #1683ed;
+      background-color: #1683ed;
+  }
+  .secbuttons{
+    padding: 6px 20px 6px 20px;
+    border-radius: 5px;
+    border: solid 1px #1683ed;
+    background-color: #1683ed;
+  }
+  .name {
+    margin: 0 7px 17px 6px;
+    font-family: OpenSans;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.01px;
+    color: #1683ed;
+    text-align: center;
+  }
+  .copy-15 {
+    margin: 15px 0px 30px 0px;
+    font-family: OpenSans;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: 0.01px;
+    color: #161616;
+    text-align: center;
+  }
+  .copy-9 {
+    font-family: OpenSans;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.92;
+    letter-spacing: 0.01px;
+    text-align: center;
+    color: black;  margin: 32px 20px;
+  }
+  img._facebook_icon {
+    width: 25px;
+    height: 25px;
+    margin: 0 10px 0 0;
+    object-fit: contain;
+  }
+  img._twitter_icon-copy {
+    width: 25px;
+    height: 25px;
+    margin: 0 10px;
+    object-fit: contain;
+  }
+  img._google_plus_icon {
+    width: 25px;
+    height: 25px;
+    margin: 0 0 0 10px;
+    object-fit: contain;
+  }
+  .fbicons{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .bb{
+    border: 0;
+    border-bottom: 1px solid
+    #e3e3e3;
+  }
+  
+  .signupcheck{
+    font-size: 12px;
+    color: #161616;
+  }
+  
+  @media only screen and (max-width: 630px) {
+    .bgimage{
+      width: 520px;
+      padding: 100px 80px;
+    }
+    .name{
+      font-size: 22px;
+    }
+    .copy-15{
+      font-size: 13px;
+    }
+    .copy-10{
+      font-size: 12px;
+      width: 150px;
+    }
+  }
+  @media only screen and (max-width: 530px) {
+    
+    .bgimage{
+      width: 420px;
+      padding: 100px 50px;
+    }
+    }
+    @media only screen and (max-width: 430px) {
+      
+    .bgimage{
+      width: 320px;
+      padding: 100px 40px;
+    }
+    .copy-10{
+      font-size: 12px;
+    }
+    }
+  
+  @media only screen and (max-width: 330px) {
+    
+  .bgimage{
+    width: 320px;
+    padding: 100px 40px;
+  }
+  #signincolor{
+  
+    font-size: 14px;
+  }
+  .signborder{
+    font-size: 14px;
+  }
+  .name{
+    font-size: 20px;
+  }
+  .copy-15{
+    font-size: 13px;
+  }
+  .signupcheck{
+    font-size: 12px;
+  }
+  .copy-10{
+    font-size: 12px;
+    width: 150px;
+  }
+  #-copy-10{
+    font-size: 12px;
+  }
+  .copy-9{
+    margin: 25px 0px;
+  }
+  }
+  
+  
+  body,html, #root{
+    height: 100%;
+  }
+  input{
+    border: 0;
+    outline: 0;
+  }
+  .asdf{
+    
+    height: calc(100% - 67px);
+  }
+  
